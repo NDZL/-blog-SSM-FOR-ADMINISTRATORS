@@ -131,7 +131,29 @@ Shoot the 2D barcode and see your APK downloaded and installed
 
 5. **Enterprise Keyboard Configuration:** Deploying files for Enterprise Keyboard applications using SSM, with a step-by-step guide. 
 
- 
+Main reference https://techdocs.zebra.com/enterprise-keyboard/4-2/guide/deploy/#tomassdeployekbekdfiles 
+
+An Enterprise Keyboard Designer is also available – Check the above link.
+
+Sample keyboard layouts are available at https://techdocs.zebra.com/ekd/latest/samples/
+
+PROFILE SETUP
+
+In StageNow add a FileMgr block and select File Action «Deploy file for an application» 
+
+In «Target Application File Definition» enter EKB package name and the path
+```com.zebra.mdna.enterprisekeyboard/config/<yourLayoutFileName>.encrypted```
+
+Place the right layout name in the string above.
+
+In «Target Application Signature» paste the EKB signature string that can be downloaded from https://techdocs.zebra.com/enterprise-keyboard/4-2/guide/deploy/EKBSig.txt.zip  
+
+In «Source Access Method» choose «File on a Remote Server»
+
+![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/b13d4550-20ca-4b85-a4b2-6cddc6e41ed3)
+
+
+---
 
 Each section provides main references, step-by-step instructions, and practical tips to ensure a smooth transition to SSM adoption in staging workflows. 
 
