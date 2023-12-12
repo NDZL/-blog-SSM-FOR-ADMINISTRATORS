@@ -71,7 +71,7 @@ In «Source Access Method» choose «File on a Remote Server»
 
 Configured EB at work
 
-![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/909dbf89-dc64-463b-84d2-0ee8a61afbfe)
+![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/104f71ba-113d-415f-a708-9e3fe2c87cd4)
 
 --- 
 
