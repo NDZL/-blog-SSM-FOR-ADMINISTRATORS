@@ -57,7 +57,7 @@ Then put it at work creating the staging 2D-barcode and validating the output
 
 2. **Enterprise Browser Configuration:** Deploying files for Enterprise Browser applications using SSM. 
 
-Main referencehttps://techdocs.zebra.com/enterprise-browser/3-6/guide/about/ 
+Main reference https://techdocs.zebra.com/enterprise-browser/3-6/guide/about/ 
 
 In StageNow add a FileMgr block and select File Action «Deploy file for an application» 
 
@@ -77,6 +77,17 @@ Configured EB at work
 
 3. **Device Diagnostic Tool Configuration:** Configuring the Device Diagnostic Tool for secure deployment using SSM. 
 
+Main reference https://techdocs.zebra.com/ddt/2-9/guide/configuration/#securedeployment
+
+Get it from here https://www.zebra.com/us/en/support-downloads/software/utilities/device-diagnostic-tool.html
+
+In StageNow add a FileMgr block and select File Action «Deploy file for an application»
+
+In «Target Application File Definition» enter DDT package name and the path ```com.zebra.mdna.selfdiagnostics/configuration.xml```
+
+In this case, the configuration file name must not be changed
+
+In «Source Access Method» choose «File on a Remote Server»
 
 
 ---
