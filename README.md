@@ -114,6 +114,18 @@ In the example the asset (APK) will be sourced from the Internet!
 ![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/0f346a8a-c512-4aff-977d-46a92c4f85f8)
 
 
+2. - APP MANAGER SET UP
+In StageNow add an AppMgr block and select Application Action «Install» 
+In «File name and path» enter the same package name and the path you entered in the previous step
+```com.zebra.devicemanager/non_persist_apk/ion-ang-cap-printer-v1.0.apk```
+
+APPLY THE PROFILE
+Downloading assets from the Internet (https://...) works fine on Android 13 BSPs – Not tested on Android 11.
+
+Shoot the 2D barcode and see your APK downloaded and installed
+
+![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/8d9fb32a-f98b-4e03-90d1-6f7404c84311)
+
 
 ---
 
