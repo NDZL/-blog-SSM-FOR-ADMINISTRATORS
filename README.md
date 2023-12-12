@@ -97,7 +97,25 @@ An example of configuration
 
 4. **App Installation using SSM:** Installing applications in a two-step profile setup, utilizing SSM for seamless deployment. 
 
- 
+Main reference https://techdocs.zebra.com/stagenow/5-10/ssmusage/#installappsusingssm 
+
+1. - FILE MANAGER SET UP
+In StageNow add a FileMgr block and select File Action «Deploy file for an application»
+
+In «Target Application File Definition» enter the AppMgr package name and the path of the app to be stored in SSM
+```com.zebra.devicemanager/non_persist_apk/ion-ang-cap-printer-v1.0.apk```
+
+Change the apk name according to your case. Check doc for persisting the app
+
+In «Source Access Method» choose «File on a Remote Server»
+
+In the example the asset (APK) will be sourced from the Internet!  
+
+![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/0f346a8a-c512-4aff-977d-46a92c4f85f8)
+
+
+
+---
 
 5. **Enterprise Keyboard Configuration:** Deploying files for Enterprise Keyboard applications using SSM, with a step-by-step guide. 
 
