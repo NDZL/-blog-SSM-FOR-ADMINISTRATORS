@@ -31,7 +31,10 @@ Even non-developers can start using SSM in staging workflows, thanks to its user
 
  
 
-The guide outlines the detailed process of configuring different Zebra tools for SSM adoption in Staging Operations: 
+The guide outlines the detailed process of configuring different Zebra tools for SSM adoption in Staging Operations
+
+Each section provides main references, step-by-step instructions, and practical tips to ensure a smooth transition to SSM adoption in staging workflows. 
+
 
 ---
 
@@ -167,9 +170,6 @@ Enjoy your new keyboard layout when the DW Profile above is active.
 
 
 ---
-
-Each section provides main references, step-by-step instructions, and practical tips to ensure a smooth transition to SSM adoption in staging workflows. 
-
  
 
 ## Conclusion 
