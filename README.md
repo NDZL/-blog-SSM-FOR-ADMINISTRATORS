@@ -37,6 +37,18 @@ The guide outlines the detailed process of configuring different Zebra tools for
 
 1. **Datawedge Configuration:** Setting up profiles for Datawedge to deploy files for applications using SSM. 
 
+Main reference https://techdocs.zebra.com/datawedge/13-0/guide/programmers-guides/ssm/#deployviastagenow-1
+
+In StageNow add a FileMgr block and select File Action «Deploy file for an application» 
+
+In «Target Application File Definition» enter DW packagename and the path ```com.symbol.datawedge/config/datawedge.db```
+
+change the db filename according to your case, e.g. “dwprofile_SpatialCompute.db”
+
+In «Source Access Method» choose «File on a Remote Server» (This means either on your Staging machine or on the Internet)
+
+![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/5c26d423-8282-43db-af83-3bd1e858b7c4)
+
  
 
 2. **Enterprise Browser Configuration:** Deploying files for Enterprise Browser applications using SSM. 
