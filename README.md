@@ -47,7 +47,7 @@ change the db filename according to your case, e.g. “dwprofile_SpatialCompute.
 
 In «Source Access Method» choose «File on a Remote Server» (This means either on your Staging machine or on the Internet)
 
-![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/9a04baa6-43d9-4d52-be69-edc9ab2e3a02)
+![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/7dc3d936-bd11-4512-85bd-7cf071fc60f2)
 
 Then put it at work creating the staging 2D-barcode and validating the output
 
