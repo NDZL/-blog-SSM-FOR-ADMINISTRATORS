@@ -47,9 +47,12 @@ change the db filename according to your case, e.g. “dwprofile_SpatialCompute.
 
 In «Source Access Method» choose «File on a Remote Server» (This means either on your Staging machine or on the Internet)
 
-![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/5c26d423-8282-43db-af83-3bd1e858b7c4)
+![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/9a04baa6-43d9-4d52-be69-edc9ab2e3a02)
 
- 
+Then put it at work creating the staging 2D-barcode and validating the output
+
+![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/d4323d86-2020-4c8e-89b4-69a1ab99f3a3)
+
 
 2. **Enterprise Browser Configuration:** Deploying files for Enterprise Browser applications using SSM. 
 
