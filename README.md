@@ -58,7 +58,7 @@ Then put it at work creating the staging 2D-barcode and validating the output
 
 ---
 
-2. **Enterprise Browser Configuration:** Deploying files for Enterprise Browser applications using SSM. 
+### 2. **Enterprise Browser Configuration:** Deploying files for Enterprise Browser applications using SSM. 
 
 Main reference https://techdocs.zebra.com/enterprise-browser/3-6/guide/about/ 
 
@@ -78,7 +78,7 @@ Configured EB at work
 
 --- 
 
-3. **Device Diagnostic Tool Configuration:** Configuring the Device Diagnostic Tool for secure deployment using SSM. 
+### 3. **Device Diagnostic Tool Configuration:** Configuring the Device Diagnostic Tool for secure deployment using SSM. 
 
 Main reference https://techdocs.zebra.com/ddt/2-9/guide/configuration/#securedeployment
 
@@ -98,7 +98,7 @@ An example of configuration
 
 ---
 
-4. **App Installation using SSM:** Installing applications in a two-step profile setup, utilizing SSM for seamless deployment. 
+### 4. **App Installation using SSM:** Installing applications in a two-step profile setup, utilizing SSM for seamless deployment. 
 
 Main reference https://techdocs.zebra.com/stagenow/5-10/ssmusage/#installappsusingssm 
 
@@ -132,7 +132,7 @@ Shoot the 2D barcode and see your APK downloaded and installed
 
 ---
 
-5. **Enterprise Keyboard Configuration:** Deploying files for Enterprise Keyboard applications using SSM, with a step-by-step guide. 
+### 5. **Enterprise Keyboard Configuration:** Deploying files for Enterprise Keyboard applications using SSM, with a step-by-step guide. 
 
 Main reference https://techdocs.zebra.com/enterprise-keyboard/4-2/guide/deploy/#tomassdeployekbekdfiles 
 
