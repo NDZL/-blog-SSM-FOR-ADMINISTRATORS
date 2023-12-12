@@ -69,13 +69,17 @@ In «Source Access Method» choose «File on a Remote Server»
 
 ![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/78b50526-65b1-4fbb-962d-39f00a1bc39d)
 
+Configured EB at work
 
+![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/909dbf89-dc64-463b-84d2-0ee8a61afbfe)
 
 --- 
 
 3. **Device Diagnostic Tool Configuration:** Configuring the Device Diagnostic Tool for secure deployment using SSM. 
 
- 
+
+
+---
 
 4. **App Installation using SSM:** Installing applications in a two-step profile setup, utilizing SSM for seamless deployment. 
 
