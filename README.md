@@ -38,7 +38,7 @@ Each section provides main references, step-by-step instructions, and practical 
 
 ---
 
-#1. **Datawedge Configuration:** Setting up profiles for Datawedge to deploy files for applications using SSM. 
+1. **Datawedge Configuration:** Setting up profiles for Datawedge to deploy files for applications using SSM. 
 
 Main reference https://techdocs.zebra.com/datawedge/13-0/guide/programmers-guides/ssm/#deployviastagenow-1
 
