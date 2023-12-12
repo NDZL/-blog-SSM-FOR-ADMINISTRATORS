@@ -33,7 +33,7 @@ Even non-developers can start using SSM in staging workflows, thanks to its user
 
 The guide outlines the detailed process of configuring different Zebra tools for SSM adoption in Staging Operations: 
 
- 
+---
 
 1. **Datawedge Configuration:** Setting up profiles for Datawedge to deploy files for applications using SSM. 
 
@@ -53,10 +53,25 @@ Then put it at work creating the staging 2D-barcode and validating the output
 
 ![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/d4323d86-2020-4c8e-89b4-69a1ab99f3a3)
 
+---
 
 2. **Enterprise Browser Configuration:** Deploying files for Enterprise Browser applications using SSM. 
 
- 
+Main referencehttps://techdocs.zebra.com/enterprise-browser/3-6/guide/about/ 
+
+In StageNow add a FileMgr block and select File Action «Deploy file for an application» 
+
+In «Target Application File Definition» enter EB package name and the path ```com.zebra.mdna.enterprisebrowser/Config.xml```
+
+In this case, the configuration file name must not be changed
+
+In «Source Access Method» choose «File on a Remote Server»
+
+![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/78b50526-65b1-4fbb-962d-39f00a1bc39d)
+
+
+
+--- 
 
 3. **Device Diagnostic Tool Configuration:** Configuring the Device Diagnostic Tool for secure deployment using SSM. 
 
