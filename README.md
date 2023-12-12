@@ -89,6 +89,9 @@ In this case, the configuration file name must not be changed
 
 In «Source Access Method» choose «File on a Remote Server»
 
+An example of configuration
+
+![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/5d7b9fbd-537c-43f5-95a8-89bf719c5906)
 
 ---
 
