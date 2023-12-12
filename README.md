@@ -152,6 +152,19 @@ In «Source Access Method» choose «File on a Remote Server»
 
 ![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/b13d4550-20ca-4b85-a4b2-6cddc6e41ed3)
 
+THE PROFILE AT WORK
+
+- Apply the FileMgr profile from the previous step
+- Then open Datawedge
+- Choose the DW Profile of your interest – e.g. Profile0 (Default)
+- Tap on Enterprise Keyboard
+- EKB must be installed and licensed
+- Choose Select Layout and make your choice
+
+Enjoy your new keyboard layout when the DW Profile above is active.
+
+![image](https://github.com/NDZL/-blog-SSM-FOR-ADMINISTRATORS/assets/11386676/7c51e0fb-89f4-4af7-9904-312773651ea9)
+
 
 ---
 
